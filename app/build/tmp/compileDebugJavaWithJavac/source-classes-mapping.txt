@@ -1,0 +1,50 @@
+com/example/takephotoandtailor/widget/GalleryView.java
+ com.example.takephotoandtailor.widget.GalleryView
+ com.example.takephotoandtailor.widget.GalleryView$1
+ com.example.takephotoandtailor.widget.GalleryView$Adapter
+ com.example.takephotoandtailor.widget.GalleryView$Image
+ com.example.takephotoandtailor.widget.GalleryView$LoaderCallback
+ com.example.takephotoandtailor.widget.GalleryView$SelectedChangeListener
+ com.example.takephotoandtailor.widget.GalleryView$ViewHolder
+com/example/takephotoandtailor/App.java
+ com.example.takephotoandtailor.App
+com/example/takephotoandtailor/widget/rv/AdapterCallback.java
+ com.example.takephotoandtailor.widget.rv.AdapterCallback
+com/example/takephotoandtailor/PhotoUtils.java
+ com.example.takephotoandtailor.PhotoUtils
+com/example/takephotoandtailor/fragment/GalleryFragment.java
+ com.example.takephotoandtailor.fragment.GalleryFragment
+ com.example.takephotoandtailor.fragment.GalleryFragment$OnSelectedListener
+com/example/takephotoandtailor/BuildConfig.java
+ com.example.takephotoandtailor.BuildConfig
+com/example/takephotoandtailor/activity/SelectPicActivity.java
+ com.example.takephotoandtailor.activity.SelectPicActivity
+ com.example.takephotoandtailor.activity.SelectPicActivity$1
+com/example/takephotoandtailor/widget/SquareLayout.java
+ com.example.takephotoandtailor.widget.SquareLayout
+com/example/takephotoandtailor/JsonTool.java
+ com.example.takephotoandtailor.JsonTool
+ com.example.takephotoandtailor.JsonTool$DataEle
+com/example/takephotoandtailor/LQRPhotoSelectUtils.java
+ com.example.takephotoandtailor.LQRPhotoSelectUtils
+ com.example.takephotoandtailor.LQRPhotoSelectUtils$PhotoSelectListener
+com/example/takephotoandtailor/widget/rv/RecyclerAdapter.java
+ com.example.takephotoandtailor.widget.rv.RecyclerAdapter
+ com.example.takephotoandtailor.widget.rv.RecyclerAdapter$AdapterListener
+ com.example.takephotoandtailor.widget.rv.RecyclerAdapter$AdapterListenerImpl
+ com.example.takephotoandtailor.widget.rv.RecyclerAdapter$ViewHolder
+com/example/takephotoandtailor/PhotoSelectUtil.java
+ com.example.takephotoandtailor.PhotoSelectUtil
+ com.example.takephotoandtailor.PhotoSelectUtil$PhotoSelectListener
+com/example/takephotoandtailor/MainActivity.java
+ com.example.takephotoandtailor.MainActivity
+ com.example.takephotoandtailor.MainActivity$1
+ com.example.takephotoandtailor.MainActivity$2
+ com.example.takephotoandtailor.MainActivity$3
+ com.example.takephotoandtailor.MainActivity$4
+ com.example.takephotoandtailor.MainActivity$5
+ com.example.takephotoandtailor.MainActivity$5$1
+ com.example.takephotoandtailor.MainActivity$6
+ com.example.takephotoandtailor.MainActivity$7
+com/example/takephotoandtailor/MyClient.java
+ com.example.takephotoandtailor.MyClient

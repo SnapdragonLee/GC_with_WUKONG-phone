@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.blankj:utilcode:1.22.10@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../fouthPhoto/caches/transforms-3/3b11dc616c41127b19b79402975e7e84/transformed/utilcode-1.22.10/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../fouthPhoto/caches/transforms-3/3b11dc616c41127b19b79402975e7e84/transformed/utilcode-1.22.10/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../fouthPhoto/caches/transforms-3/3b11dc616c41127b19b79402975e7e84/transformed/utilcode-1.22.10/res" />
+      <root url="file://$PROJECT_DIR$/../../fouthPhoto/caches/transforms-3/3b11dc616c41127b19b79402975e7e84/transformed/utilcode-1.22.10/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../fouthPhoto/caches/modules-2/files-2.1/com.blankj/utilcode/1.22.10/ece31c652fb28cf6dbb875e0d33f5bb7cd8ca507/utilcode-1.22.10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../fouthPhoto/caches/modules-2/files-2.1/com.blankj/utilcode/1.22.10/cbfbc00c66bfba510c759166a90cff007aa3a34e/utilcode-1.22.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

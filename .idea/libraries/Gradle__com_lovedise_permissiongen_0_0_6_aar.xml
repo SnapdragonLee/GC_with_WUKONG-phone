@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.lovedise:permissiongen:0.0.6@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../fouthPhoto/caches/transforms-3/5c86136155d8e94ac33ddf406e67f58e/transformed/permissiongen-0.0.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../fouthPhoto/caches/transforms-3/5c86136155d8e94ac33ddf406e67f58e/transformed/permissiongen-0.0.6/res" />
+      <root url="file://$PROJECT_DIR$/../../fouthPhoto/caches/transforms-3/5c86136155d8e94ac33ddf406e67f58e/transformed/permissiongen-0.0.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../fouthPhoto/caches/modules-2/files-2.1/com.lovedise/permissiongen/0.0.6/426b820a47d1196956bf3401a186773add63f732/permissiongen-0.0.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../fouthPhoto/caches/modules-2/files-2.1/com.lovedise/permissiongen/0.0.6/ab1509001fcda56be4f4ca1510ad23a5b1865f57/permissiongen-0.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

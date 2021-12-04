@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TakePhotoAndTailor</string>
+    <string name="label_gallery_select_max_size">至多选择%s张</string>
+    <string name="title_select_gallery">选择照片</string>
+</resources>
