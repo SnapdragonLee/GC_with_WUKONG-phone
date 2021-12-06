@@ -261,7 +261,7 @@ public class LQRPhotoSelectUtils {
         StringBuilder sb = new StringBuilder();
         sb.append(Environment.getExternalStorageDirectory().getAbsolutePath());
         sb.append(File.separator);
-        String ROOT_DIR = "Android/data/" + mActivity.getPackageName();
+        String ROOT_DIR = "/data/user/0/" + mActivity.getPackageName();
         sb.append(ROOT_DIR);
         sb.append(File.separator);
         return sb.toString();

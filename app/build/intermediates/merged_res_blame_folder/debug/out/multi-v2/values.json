@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Program_Files\\photoTake7\\buaa-android-2021-team-work\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\Program_Files\\photoTake7\\buaa-android-2021-team-work\\buaa-android-2021-team-work\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "D:\\Program_Files\\fouthPhoto\\caches\\transforms-3\\6a9ceac0aeebdc94ae1e9507ba20072f\\transformed\\design-28.0.0\\res\\values\\values.xml",
@@ -39,42 +39,6 @@
                         "endLines": "418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,653,654,655,656,657,658,659,660,661,662,663,664,665,666,667,668,669,670,671,672,728,786,787,788,789,790,791,792,793,3142,3149,3158,3167,3176,3182,4944,4966",
                         "endColumns": "67,58,64,65,62,60,65,55,50,60,49,59,63,68,54,66,65,60,84,77,64,66,57,74,60,58,74,59,55,50,60,63,58,72,68,67,43,125,61,57,48,185,47,45,12,12,12,12,12,12,24,24",
                         "endOffsets": "21017,21076,21141,21207,21270,21331,21397,21453,21504,21565,21615,21675,21739,21808,21863,36164,36230,36291,36376,36454,36519,36586,36644,36719,36780,36839,36914,36974,37030,37081,37142,37206,37265,37338,37407,40364,45258,45384,45446,45504,45553,45739,45787,45833,201021,201442,201984,202534,202994,203370,326486,327410"
-                    }
-                },
-                {
-                    "source": "D:\\Program_Files\\photoTake7\\buaa-android-2021-team-work\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "8",
-                        "endColumns": "12",
-                        "endOffsets": "376"
-                    },
-                    "to": {
-                        "startLines": "803",
-                        "startColumns": "4",
-                        "startOffsets": "46557",
-                        "endLines": "808",
-                        "endColumns": "12",
-                        "endOffsets": "46871"
-                    }
-                },
-                {
-                    "source": "D:\\Program_Files\\photoTake7\\buaa-android-2021-team-work\\app\\src\\main\\res\\values\\ids.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "86",
-                        "endColumns": "49",
-                        "endOffsets": "131"
-                    },
-                    "to": {
-                        "startLines": "696",
-                        "startColumns": "4",
-                        "startOffsets": "38556",
-                        "endColumns": "48",
-                        "endOffsets": "38600"
                     }
                 },
                 {
@@ -154,6 +118,23 @@
                     }
                 },
                 {
+                    "source": "D:\\Program_Files\\photoTake7\\buaa-android-2021-team-work\\buaa-android-2021-team-work\\app\\src\\main\\res\\values\\ids.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "86",
+                        "endColumns": "49",
+                        "endOffsets": "131"
+                    },
+                    "to": {
+                        "startLines": "696",
+                        "startColumns": "4",
+                        "startOffsets": "38556",
+                        "endColumns": "48",
+                        "endOffsets": "38600"
+                    }
+                },
+                {
                     "source": "D:\\Program_Files\\fouthPhoto\\caches\\transforms-3\\0a8396056ebaae65ccf47e660813c9bd\\transformed\\cardview-v7-28.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,35,36,37,38,45,47,50,7",
@@ -173,20 +154,39 @@
                     }
                 },
                 {
-                    "source": "D:\\Program_Files\\photoTake7\\buaa-android-2021-team-work\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "D:\\Program_Files\\photoTake7\\buaa-android-2021-team-work\\buaa-android-2021-team-work\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "7,4,2,3,9,11,6,8",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "247,157,57,105,353,414,206,300",
-                        "endColumns": "51,45,46,50,42,45,39,51",
-                        "endOffsets": "294,198,99,151,391,455,241,347"
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "376"
                     },
                     "to": {
-                        "startLines": "337,350,351,352,372,415,433,434",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "15573,16515,16561,16608,17968,20787,21868,21908",
-                        "endColumns": "51,45,46,50,42,45,39,51",
-                        "endOffsets": "15620,16556,16603,16654,18006,20828,21903,21955"
+                        "startLines": "803",
+                        "startColumns": "4",
+                        "startOffsets": "46557",
+                        "endLines": "808",
+                        "endColumns": "12",
+                        "endOffsets": "46871"
+                    }
+                },
+                {
+                    "source": "D:\\Program_Files\\photoTake7\\buaa-android-2021-team-work\\buaa-android-2021-team-work\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "17,74,141",
+                        "endColumns": "55,65,53",
+                        "endOffsets": "68,135,190"
+                    },
+                    "to": {
+                        "startLines": "768,776,785",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "43127,44092,45165",
+                        "endColumns": "55,65,53",
+                        "endOffsets": "43178,44153,45214"
                     }
                 },
                 {
@@ -209,7 +209,24 @@
                     }
                 },
                 {
-                    "source": "D:\\Program_Files\\photoTake7\\buaa-android-2021-team-work\\app\\src\\main\\res\\values\\dimens.xml",
+                    "source": "D:\\Program_Files\\photoTake7\\buaa-android-2021-team-work\\buaa-android-2021-team-work\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "7,4,2,3,9,11,6,8",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "247,157,57,105,353,414,206,300",
+                        "endColumns": "51,45,46,50,42,45,39,51",
+                        "endOffsets": "294,198,99,151,391,455,241,347"
+                    },
+                    "to": {
+                        "startLines": "337,350,351,352,372,415,433,434",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "15573,16515,16561,16608,17968,20787,21868,21908",
+                        "endColumns": "51,45,46,50,42,45,39,51",
+                        "endOffsets": "15620,16556,16603,16654,18006,20828,21903,21955"
+                    }
+                },
+                {
+                    "source": "D:\\Program_Files\\photoTake7\\buaa-android-2021-team-work\\buaa-android-2021-team-work\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -223,23 +240,6 @@
                         "startOffsets": "31709,31745,31783",
                         "endColumns": "35,37,37",
                         "endOffsets": "31740,31778,31816"
-                    }
-                },
-                {
-                    "source": "D:\\Program_Files\\photoTake7\\buaa-android-2021-team-work\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "17,74,141",
-                        "endColumns": "55,65,53",
-                        "endOffsets": "68,135,190"
-                    },
-                    "to": {
-                        "startLines": "768,776,785",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "43127,44092,45165",
-                        "endColumns": "55,65,53",
-                        "endOffsets": "43178,44153,45214"
                     }
                 },
                 {

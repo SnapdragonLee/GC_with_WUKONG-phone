@@ -5,6 +5,8 @@
 
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.CAMERA" />
 
     <application
@@ -15,11 +17,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
+        android:requestLegacyExternalStorage="true"
         tools:ignore="GoogleAppIndexingWarning">
+
         <activity
-            android:exported="true"
-            android:name=".activity.SelectPicActivity" />
-        <activity android:exported = "true" android:name=".MainActivity">
+            android:name=".activity.SelectPicActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -28,10 +34,10 @@
         </activity>
 
         <activity
-            android:exported = "true"
             android:name="com.yalantis.ucrop.UCropActivity"
+            android:exported="true"
             android:screenOrientation="portrait"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
 
 
         <!-- 适配android 7.0 拍照闪退的处理 ,其中authorities的值要和等下代码中使用的一致就行，其中resource内的文件就是拍照后的共享文件 -->

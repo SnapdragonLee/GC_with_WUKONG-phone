@@ -80,6 +80,7 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public void onFinish(File outputFile, Uri outputUri) {
                     // 4、当拍照或从图库选取图片成功后回调
+                    Log.i(TAG,"in onfinish");
                     mTvPath.setText(outputFile.getAbsolutePath());
                     mTvUri.setText(outputUri.toString());
                     Glide.with(MainActivity.this).load(outputUri).into(mIvPic);
@@ -87,6 +88,7 @@ public class MainActivity extends AppCompatActivity {
                     MyClient client = new MyClient();
                     client.setImgPath(mTvPath.getText().toString());
                     new Thread(client).start();
+                    Log.i(TAG,"thread begin");
                     String ans = client.getAns();
                     String solution = ansAnalyse(ans);
                     mResult.setText("re:  "+solution);

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:2:1-49:12
-INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:2:1-49:12
-INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:2:1-49:12
-INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:2:1-49:12
+ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:2:1-55:12
 MERGED from [com.github.yalantis:ucrop:2.2.3] D:\Program_Files\fouthPhoto\caches\transforms-3\982af86f2c8a4668ed0591d1987bb69f\transformed\ucrop-2.2.3\AndroidManifest.xml:2:1-11:12
 MERGED from [com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:2:1-29:12
 MERGED from [com.android.support.constraint:constraint-layout:2.0.4] D:\Program_Files\fouthPhoto\caches\transforms-3\1f11de26ddbb253269d780fa7642e5fc\transformed\constraint-layout-2.0.4\AndroidManifest.xml:2:1-11:12
@@ -40,39 +40,47 @@ MERGED from [com.android.support:interpolator:28.0.0] D:\Program_Files\fouthPhot
 MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\Program_Files\fouthPhoto\caches\transforms-3\12105dd0765e508747d4721931e2290b\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\Program_Files\fouthPhoto\caches\transforms-3\abcadd43c26f406d0f609646ddf671f7\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] D:\Program_Files\fouthPhoto\caches\transforms-3\924022ac28826e8ed40c02fdf63def6b\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:2:1-49:12
-INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:2:1-49:12
-INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:2:1-55:12
 	package
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:4:5-45
-		INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:4:5-45
+		INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:2:1-49:12
-		INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:2:1-55:12
+		INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:2:1-49:12
-		INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:2:1-55:12
+		INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:6:5-81
+ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:6:5-81
 	android:name
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:6:22-78
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:6:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:7:5-80
+ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:7:5-80
 	android:name
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:7:22-77
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.INTERNET
+ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:9:22-76
 uses-permission#android.permission.CAMERA
-ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:8:5-65
+ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:10:5-65
 	android:name
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:8:22-62
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:10:22-62
 application
-ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:10:5-47:19
+ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:12:5-53:19
 MERGED from [com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:9:5-27:19
 MERGED from [com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:9:5-27:19
 MERGED from [com.android.support.constraint:constraint-layout:2.0.4] D:\Program_Files\fouthPhoto\caches\transforms-3\1f11de26ddbb253269d780fa7642e5fc\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
@@ -85,76 +93,78 @@ MERGED from [com.android.support:support-compat:28.0.0] D:\Program_Files\fouthPh
 MERGED from [com.android.support:support-compat:28.0.0] D:\Program_Files\fouthPhoto\caches\transforms-3\d732f4d1d5007e0f8f7829de1b79d464\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] D:\Program_Files\fouthPhoto\caches\transforms-3\a63a674746a26ba79ed18c90da3250a2\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
 MERGED from [com.android.support:versionedparcelable:28.0.0] D:\Program_Files\fouthPhoto\caches\transforms-3\a63a674746a26ba79ed18c90da3250a2\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:requestLegacyExternalStorage
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:20:9-52
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] D:\Program_Files\fouthPhoto\caches\transforms-3\d732f4d1d5007e0f8f7829de1b79d464\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:18:9-35
 	android:label
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:14:9-41
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:16:9-41
 	tools:ignore
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:18:9-48
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:21:9-48
 	android:roundIcon
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:15:9-54
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:17:9-54
 	android:icon
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:13:9-43
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:15:9-43
 	android:allowBackup
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:14:9-35
 	android:theme
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:17:9-40
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:19:9-40
 	android:name
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:11:9-28
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:13:9-28
 activity#com.example.takephotoandtailor.activity.SelectPicActivity
-ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:19:9-21:58
+ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:23:9-25:39
 	android:exported
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:20:13-36
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:25:13-36
 	android:name
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:21:13-55
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:24:13-55
 activity#com.example.takephotoandtailor.MainActivity
-ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:22:9-28:20
+ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:26:9-34:20
 	android:exported
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:22:19-44
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:28:13-36
 	android:name
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:22:45-73
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:27:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:23:13-27:29
+ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:29:13-33:29
 action#android.intent.action.MAIN
-ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:24:17-69
+ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:24:25-66
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:26:17-77
+ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:26:27-74
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:32:27-74
 activity#com.yalantis.ucrop.UCropActivity
-ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:30:9-34:71
+ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:36:9-40:72
 	android:screenOrientation
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:33:13-49
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:39:13-49
 	android:exported
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:31:13-38
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:38:13-36
 	android:theme
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:34:13-69
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:40:13-69
 	android:name
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:32:13-60
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:37:13-60
 provider#android.support.v4.content.FileProvider
-ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:38:9-46:20
+ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:44:9-52:20
 	android:grantUriPermissions
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:42:13-47
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:48:13-47
 	android:authorities
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:40:13-78
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:46:13-78
 	android:exported
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:41:13-37
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:47:13-37
 	android:name
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:39:13-67
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:45:13-67
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:43:13-45:54
+ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:49:13-51:54
 	android:resource
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:45:17-51
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:51:17-51
 	android:name
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:44:17-67
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:50:17-67
 uses-sdk
-INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
-INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
+INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
+INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
 MERGED from [com.github.yalantis:ucrop:2.2.3] D:\Program_Files\fouthPhoto\caches\transforms-3\982af86f2c8a4668ed0591d1987bb69f\transformed\ucrop-2.2.3\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.yalantis:ucrop:2.2.3] D:\Program_Files\fouthPhoto\caches\transforms-3\982af86f2c8a4668ed0591d1987bb69f\transformed\ucrop-2.2.3\AndroidManifest.xml:7:5-9:41
 MERGED from [com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:7:5-44
@@ -227,16 +237,16 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\Program_Files\fouthP
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\Program_Files\fouthPhoto\caches\transforms-3\abcadd43c26f406d0f609646ddf671f7\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] D:\Program_Files\fouthPhoto\caches\transforms-3\924022ac28826e8ed40c02fdf63def6b\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] D:\Program_Files\fouthPhoto\caches\transforms-3\924022ac28826e8ed40c02fdf63def6b\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
-INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
-INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
+INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
+INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
+		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml
 activity#com.blankj.utilcode.util.PermissionUtils$PermissionActivity
 ADDED from [com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:10:9-15:75
 	android:multiprocess

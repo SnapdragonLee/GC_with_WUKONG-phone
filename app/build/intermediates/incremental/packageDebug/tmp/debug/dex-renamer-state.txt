@@ -1,14 +1,14 @@
-#Sat Dec 04 20:13:08 CST 2021
+#Mon Dec 06 16:06:02 CST 2021
 path.4=8/classes.dex
 path.3=2/classes.dex
 path.2=14/classes.dex
 path.1=0/classes.dex
 path.0=classes.dex
-base.4=D\:\\Program_Files\\photoTake7\\buaa-android-2021-team-work\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
-base.3=D\:\\Program_Files\\photoTake7\\buaa-android-2021-team-work\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
-base.2=D\:\\Program_Files\\photoTake7\\buaa-android-2021-team-work\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
-base.1=D\:\\Program_Files\\photoTake7\\buaa-android-2021-team-work\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.0=D\:\\Program_Files\\photoTake7\\buaa-android-2021-team-work\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.4=D\:\\Program_Files\\photoTake7\\buaa-android-2021-team-work\\buaa-android-2021-team-work\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
+base.3=D\:\\Program_Files\\photoTake7\\buaa-android-2021-team-work\\buaa-android-2021-team-work\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
+base.2=D\:\\Program_Files\\photoTake7\\buaa-android-2021-team-work\\buaa-android-2021-team-work\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+base.1=D\:\\Program_Files\\photoTake7\\buaa-android-2021-team-work\\buaa-android-2021-team-work\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=D\:\\Program_Files\\photoTake7\\buaa-android-2021-team-work\\buaa-android-2021-team-work\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex

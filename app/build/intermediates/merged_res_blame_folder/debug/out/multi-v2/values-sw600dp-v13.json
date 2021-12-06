@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Program_Files\\photoTake7\\buaa-android-2021-team-work\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "D:\\Program_Files\\photoTake7\\buaa-android-2021-team-work\\buaa-android-2021-team-work\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "D:\\Program_Files\\fouthPhoto\\caches\\transforms-3\\6a9ceac0aeebdc94ae1e9507ba20072f\\transformed\\design-28.0.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
