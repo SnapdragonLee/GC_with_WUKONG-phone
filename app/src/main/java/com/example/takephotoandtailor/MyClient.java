@@ -23,7 +23,7 @@ public class MyClient implements Runnable {
     private Socket socket = null;
     private OutputStream outputStream = null;
     private InputStream inputStream = null;
-    private final String ADDRESS = "10.137.4.60";
+    private final String ADDRESS = "192.168.43.31";
     private final int PORT = 1017;
     private String imgPath;
     private String ans = null;
@@ -46,6 +46,8 @@ public class MyClient implements Runnable {
         try {
             synchronized (this) {
                 Log.i(TAG,"connected");
+                byte[] a=readImg(imgPath);
+                Log.i(TAG,a.toString());
                 socket = new Socket(ADDRESS, PORT);
                 Log.i(TAG,"s"+socket.toString());
                 outputStream = socket.getOutputStream();

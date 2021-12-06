@@ -93,8 +93,6 @@ MERGED from [com.android.support:support-compat:28.0.0] D:\Program_Files\fouthPh
 MERGED from [com.android.support:support-compat:28.0.0] D:\Program_Files\fouthPhoto\caches\transforms-3\d732f4d1d5007e0f8f7829de1b79d464\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] D:\Program_Files\fouthPhoto\caches\transforms-3\a63a674746a26ba79ed18c90da3250a2\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
 MERGED from [com.android.support:versionedparcelable:28.0.0] D:\Program_Files\fouthPhoto\caches\transforms-3\a63a674746a26ba79ed18c90da3250a2\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
-	android:requestLegacyExternalStorage
-		ADDED from D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:20:9-52
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] D:\Program_Files\fouthPhoto\caches\transforms-3\d732f4d1d5007e0f8f7829de1b79d464\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 	android:supportsRtl

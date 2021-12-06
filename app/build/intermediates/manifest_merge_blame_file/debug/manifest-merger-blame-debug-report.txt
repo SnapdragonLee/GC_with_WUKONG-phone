@@ -39,100 +39,98 @@
 22-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:15:9-43
 23        android:label="@string/app_name"
 23-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:16:9-41
-24        android:requestLegacyExternalStorage="true"
-24-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:20:9-52
-25        android:roundIcon="@mipmap/ic_launcher_round"
-25-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:17:9-54
-26        android:supportsRtl="true"
-26-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:18:9-35
-27        android:testOnly="true"
-28        android:theme="@style/AppTheme" >
-28-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:19:9-40
-29        <activity
-29-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:23:9-25:39
-30            android:name="com.example.takephotoandtailor.activity.SelectPicActivity"
-30-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:24:13-55
-31            android:exported="true" />
-31-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:25:13-36
-32        <activity
-32-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:26:9-34:20
-33            android:name="com.example.takephotoandtailor.MainActivity"
-33-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:27:13-41
-34            android:exported="true" >
-34-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:28:13-36
-35            <intent-filter>
-35-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:29:13-33:29
-36                <action android:name="android.intent.action.MAIN" />
-36-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:30:17-69
-36-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:30:25-66
-37
-38                <category android:name="android.intent.category.LAUNCHER" />
-38-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:32:17-77
-38-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:32:27-74
-39            </intent-filter>
-40        </activity>
-41        <activity
-41-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:36:9-40:72
-42            android:name="com.yalantis.ucrop.UCropActivity"
-42-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:37:13-60
-43            android:exported="true"
-43-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:38:13-36
-44            android:screenOrientation="portrait"
-44-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:39:13-49
-45            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-45-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:40:13-69
-46
-47        <!-- 适配android 7.0 拍照闪退的处理 ,其中authorities的值要和等下代码中使用的一致就行，其中resource内的文件就是拍照后的共享文件 -->
-48        <provider
-48-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:44:9-52:20
-49            android:name="android.support.v4.content.FileProvider"
-49-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:45:13-67
-50            android:authorities="com.example.takephotoandtailor.fileprovider"
-50-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:46:13-78
-51            android:exported="false"
-51-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:47:13-37
-52            android:grantUriPermissions="true" >
-52-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:48:13-47
-53            <meta-data
-53-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:49:13-51:54
-54                android:name="android.support.FILE_PROVIDER_PATHS"
-54-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:50:17-67
-55                android:resource="@xml/file_paths" />
-55-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:51:17-51
-56        </provider>
-57
-58        <activity
-58-->[com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:10:9-15:75
-59            android:name="com.blankj.utilcode.util.PermissionUtils$PermissionActivity"
-59-->[com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:11:13-87
-60            android:configChanges="orientation|keyboardHidden|screenSize"
-60-->[com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:12:13-74
-61            android:multiprocess="true"
-61-->[com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:13:13-40
-62            android:theme="@style/ActivityTranslucent"
-62-->[com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:14:13-55
-63            android:windowSoftInputMode="stateHidden|stateAlwaysHidden" />
-63-->[com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:15:13-72
-64
-65        <provider
-65-->[com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:17:9-26:20
-66            android:name="com.blankj.utilcode.util.Utils$FileProvider4UtilCode"
-66-->[com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:18:13-80
-67            android:authorities="com.example.takephotoandtailor.utilcode.provider"
-67-->[com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:19:13-69
-68            android:exported="false"
-68-->[com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:20:13-37
-69            android:grantUriPermissions="true"
-69-->[com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:21:13-47
-70            android:multiprocess="true" >
-70-->[com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:22:13-40
-71            <meta-data
-71-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:49:13-51:54
-72                android:name="android.support.FILE_PROVIDER_PATHS"
-72-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:50:17-67
-73                android:resource="@xml/util_code_provider_paths" />
-73-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:51:17-51
-74        </provider>
-75    </application>
-76
-77</manifest>
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:17:9-54
+25        android:supportsRtl="true"
+25-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:18:9-35
+26        android:testOnly="true"
+27        android:theme="@style/AppTheme" >
+27-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:19:9-40
+28        <activity
+28-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:23:9-25:39
+29            android:name="com.example.takephotoandtailor.activity.SelectPicActivity"
+29-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:24:13-55
+30            android:exported="true" />
+30-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:25:13-36
+31        <activity
+31-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:26:9-34:20
+32            android:name="com.example.takephotoandtailor.MainActivity"
+32-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:27:13-41
+33            android:exported="true" >
+33-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:28:13-36
+34            <intent-filter>
+34-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:29:13-33:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:30:17-69
+35-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:30:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:32:17-77
+37-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:32:27-74
+38            </intent-filter>
+39        </activity>
+40        <activity
+40-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:36:9-40:72
+41            android:name="com.yalantis.ucrop.UCropActivity"
+41-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:37:13-60
+42            android:exported="true"
+42-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:38:13-36
+43            android:screenOrientation="portrait"
+43-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:39:13-49
+44            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+44-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:40:13-69
+45
+46        <!-- 适配android 7.0 拍照闪退的处理 ,其中authorities的值要和等下代码中使用的一致就行，其中resource内的文件就是拍照后的共享文件 -->
+47        <provider
+47-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:44:9-52:20
+48            android:name="android.support.v4.content.FileProvider"
+48-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:45:13-67
+49            android:authorities="com.example.takephotoandtailor.fileprovider"
+49-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:46:13-78
+50            android:exported="false"
+50-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:47:13-37
+51            android:grantUriPermissions="true" >
+51-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:48:13-47
+52            <meta-data
+52-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:49:13-51:54
+53                android:name="android.support.FILE_PROVIDER_PATHS"
+53-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:50:17-67
+54                android:resource="@xml/file_paths" />
+54-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:51:17-51
+55        </provider>
+56
+57        <activity
+57-->[com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:10:9-15:75
+58            android:name="com.blankj.utilcode.util.PermissionUtils$PermissionActivity"
+58-->[com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:11:13-87
+59            android:configChanges="orientation|keyboardHidden|screenSize"
+59-->[com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:12:13-74
+60            android:multiprocess="true"
+60-->[com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:13:13-40
+61            android:theme="@style/ActivityTranslucent"
+61-->[com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:14:13-55
+62            android:windowSoftInputMode="stateHidden|stateAlwaysHidden" />
+62-->[com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:15:13-72
+63
+64        <provider
+64-->[com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:17:9-26:20
+65            android:name="com.blankj.utilcode.util.Utils$FileProvider4UtilCode"
+65-->[com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:18:13-80
+66            android:authorities="com.example.takephotoandtailor.utilcode.provider"
+66-->[com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:19:13-69
+67            android:exported="false"
+67-->[com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:20:13-37
+68            android:grantUriPermissions="true"
+68-->[com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:21:13-47
+69            android:multiprocess="true" >
+69-->[com.blankj:utilcode:1.22.10] D:\Program_Files\fouthPhoto\caches\transforms-3\3b11dc616c41127b19b79402975e7e84\transformed\utilcode-1.22.10\AndroidManifest.xml:22:13-40
+70            <meta-data
+70-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:49:13-51:54
+71                android:name="android.support.FILE_PROVIDER_PATHS"
+71-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:50:17-67
+72                android:resource="@xml/util_code_provider_paths" />
+72-->D:\Program_Files\photoTake7\buaa-android-2021-team-work\buaa-android-2021-team-work\app\src\main\AndroidManifest.xml:51:17-51
+73        </provider>
+74    </application>
+75
+76</manifest>
