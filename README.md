@@ -1,4 +1,4 @@
-### Phone 端
+### GC_with_WUKONG Phone 端
 
 安卓端代码，有以下特性支持：
 
